@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    float l = 5.0, w = 3.0;
+    printf("Perimeter = %.2f\n", 2 * (l + w));
+    return 0;
+}
