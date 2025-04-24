@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() 
+{
+    float a=3.14,area;
+    int r=10;
+    area=a*r*r;
+    printf("Area=%f",area);
+    return 0;
+    
+} 
